@@ -10,7 +10,10 @@ const bookReading_data = {
         12: { books : [{title:"Thinking, Fast and Slow: Kahneman, Daniel", chapters:"1"}]},
         13: { books : [{title:"Thinking, Fast and Slow: Kahneman, Daniel", chapters:"1"}]},
         14: { books : []},
-        15: { books : [{title:"Thinking, Fast and Slow: Kahneman, Daniel", chapters:"2"}]}
+        15: { books : [{title:"Thinking, Fast and Slow: Kahneman, Daniel", chapters:"2"}]},
+        16: { books : [{title:"Thinking, Fast and Slow: Kahneman, Daniel", chapters:"1"}]},
+        17: { books : [{title:"Thinking, Fast and Slow: Kahneman, Daniel", chapters:"1"}]},
+        18: { books : []},
       },
       September: {},
     },
