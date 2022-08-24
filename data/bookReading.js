@@ -18,6 +18,8 @@ const bookReading_data = {
         20: { books : []},
         21: { books : []},
         22: { books : []},
+        23: { books : []},
+        24: { books : []},
       },
       September: {},
     },

@@ -18,6 +18,8 @@ const workout_data = {
       20: { jumpRopes: 0, strengthTraining:0, cycling:0, water:1.8 },
       21: { jumpRopes: 0, strengthTraining:0, cycling:0, water:1.2 },
       22: { jumpRopes: 1500, strengthTraining:0, cycling:0, water:3 },
+      23: { jumpRopes: 1500, strengthTraining:0, cycling:0, water:3 },
+      24: { jumpRopes: 1500, strengthTraining:0, cycling:0, water:3 },
     },
     September: {},
   },
